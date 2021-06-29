@@ -63,7 +63,6 @@ plotly==4.14.3
 prometheus-client==0.8.0
 prompt-toolkit==3.0.6
 protobuf==3.13.0
-pyarrow==1.0.0
 pycparser==2.20
 pydantic==1.7.4
 pydeck==0.4.1
@@ -99,7 +98,6 @@ validators==0.17.1
 watchdog==0.10.3
 wcwidth==0.2.5
 webencodings==0.5.1
-wheel==0.36.2
 widgetsnbextension==3.5.1
 wincertstore==0.2
 xlrd==1.2.0
