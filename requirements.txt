@@ -24,7 +24,7 @@ entrypoints==0.3
 enum-compat==0.0.3
 gitdb==4.0.5
 GitPython==3.1.11
-graphviz @ file:///tmp/build/80754af9/python-graphviz_1612303637553/work
+graphviz==0.16
 idna==2.10
 importlib-metadata==1.7.0
 ipykernel==5.3.4
@@ -34,34 +34,35 @@ ipywidgets==7.5.1
 jedi==0.17.2
 Jinja2==2.11.2
 jmespath==0.10.0
-joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+joblib==1.0.1
 jsonschema==3.2.0
 jupyter-client==6.1.6
 jupyter-core==4.6.3
-kiwisolver @ file:///C:/ci/kiwisolver_1612282618948/work
+kiwisolver==1.3.1
 lockfile==0.12.2
-luigi @ file:///C:/ci/luigi_1618564519313/work
+luigi==3.0.3
 lxml==4.6.3
 MarkupSafe==1.1.1
-matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
+matplotlib==3.3.4
 mistune==0.8.4
 mkl-fft==1.3.0
-mkl-random @ file:///C:/ci/mkl_random_1618854593605/work
+mkl-random==1.2.1
 mkl-service==2.3.0
 nbconvert==5.6.1
 nbformat==5.0.7
 notebook==6.1.3
-numpy @ file:///C:/ci/numpy_and_numpy_base_1620831380353/work
+numpy==1.20.2
 olefile==0.46
 packaging==20.4
-pandas @ file:///C:/ci/pandas_1624383628295/work
+pandas==1.2.5
 pandaSDMX==1.6.0
 pandocfilters==1.4.2
 parso==0.7.1
 pathtools==0.1.2
 pickleshare==0.7.5
-Pillow @ file:///C:/ci/pillow_1617386319301/work
-plotly @ file:///tmp/build/80754af9/plotly_1610565580232/work
+Pillow==8.2.0
+pip==21.1.2
+plotly==4.14.3
 prometheus-client==0.8.0
 prompt-toolkit==3.0.6
 protobuf==3.13.0
@@ -70,30 +71,31 @@ pycparser==2.20
 pydantic==1.7.4
 pydeck==0.4.1
 Pygments==2.6.1
-pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+pyparsing==2.4.7
 pyrsistent==0.16.0
 python-daemon==2.2.4
-python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
-pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+python-dateutil==2.8.1
+pytz==2021.1
 pywin32==228
 pywinpty==0.5.7
 pyzmq==19.0.2
 requests==2.24.0
 retrying==1.3.3
 s3transfer==0.3.3
-scikit-learn @ file:///C:/ci/scikit-learn_1622739441385/work
-scipy @ file:///C:/ci/scipy_1618856134946/work
+scikit-learn==0.24.2
+scipy==1.6.2
 Send2Trash==1.5.0
-six @ file:///tmp/build/80754af9/six_1623709665295/work
+setuptools==52.0.0.post20210125
+six==1.16.0
 smmap==3.0.4
 streamlit==0.83.0
-tenacity @ file:///C:/ci/tenacity_1608241973262/work
+tenacity==6.3.1
 terminado==0.8.3
 testpath==0.4.4
-threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+threadpoolctl==2.1.0
 toml==0.10.1
 toolz==0.10.0
-tornado @ file:///C:/ci/tornado_1606935947090/work
+tornado==6.1
 traitlets==4.3.3
 tzlocal==2.1
 urllib3==1.25.10
@@ -101,6 +103,7 @@ validators==0.17.1
 watchdog==0.10.3
 wcwidth==0.2.5
 webencodings==0.5.1
+wheel==0.36.2
 widgetsnbextension==3.5.1
 wincertstore==0.2
 xlrd==1.2.0
